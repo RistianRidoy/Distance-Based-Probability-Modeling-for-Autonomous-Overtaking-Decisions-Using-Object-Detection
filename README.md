@@ -1,0 +1,2 @@
+# Distance-Based-Probability-Modeling-for-Autonomous-Overtaking-Decisions-Using-Object-Detection
+A vision-based system for autonomous overtaking on double-lane highways. Uses Kaggle/manual images, preprocessing (Gaussian blur, Canny, Hough Transform) for lane detection. YOLOv3 detects objects; distance estimated via bounding boxes and focal length. A safety model evaluates overtaking feasibility, offering real-time feedback.
